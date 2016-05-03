@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaquaeex13johnuoft_0007.png"; bbox 0 0 1849 2927; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 784 1416 946">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 784 1416 946">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 784 1416 946; baseline -0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 365 784 1416 946; x_wconf 67' lang='lat' dir='ltr'><strong>IQANNOY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 1067 1545 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 1067 1545 1155">
+     <span class='ocr_line' id='line_1_2' title="bbox 277 1067 1545 1155; baseline -0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 277 1068 510 1155; x_wconf 83' lang='grc' dir='ltr'><strong>ΤΟΥ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 640 1067 1545 1154; x_wconf 80' lang='grc' dir='ltr'>ΧΡΥΣΟΣΤΟΜΟΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 472 1289 1322 1328">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 472 1289 1322 1328">
+     <span class='ocr_line' id='line_1_3' title="bbox 472 1289 1322 1328; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 472 1289 548 1327; x_wconf 93' lang='grc' dir='ltr'><strong>ΤΑ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 608 1289 744 1328; x_wconf 89' lang='grc' dir='ltr'>ΕΥΡΙ</span> <span class='ocrx_word' id='word_1_6' title='bbox 752 1290 1322 1328; x_wconf 65' lang='lat' dir='ltr'><strong>AAAAAAAAAAAAAA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 673 1640 1114 1684">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 673 1640 1114 1684">
+     <span class='ocr_line' id='line_1_4' title="bbox 673 1640 1114 1684; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 673 1640 1114 1684; x_wconf 68' lang='lat' dir='ltr'><strong>OOOOOOOOOOOO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
